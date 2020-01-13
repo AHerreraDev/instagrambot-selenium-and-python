@@ -1,0 +1,4 @@
+chromedriver.exe
+debug.log
+__pycache__*
+test_*
